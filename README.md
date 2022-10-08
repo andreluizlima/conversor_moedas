@@ -1,7 +1,7 @@
 # conversor_moedas
 
 ## Description
-This is a simple Coin Converter App made in Flutter
+This is a simple Coin Converter Example App made in Flutter
 
 ## Details
 ```diff
